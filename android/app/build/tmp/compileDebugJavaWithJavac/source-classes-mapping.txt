@@ -1,0 +1,14 @@
+com/bolodorei/MainActivity.java
+ com.bolodorei.MainActivity
+com/bolodorei/MainApplication.java
+ com.bolodorei.MainApplication
+ com.bolodorei.MainApplication$1
+com/bolodorei/ReactNativeFlipper.java
+ com.bolodorei.ReactNativeFlipper
+ com.bolodorei.ReactNativeFlipper$1
+ com.bolodorei.ReactNativeFlipper$2
+ com.bolodorei.ReactNativeFlipper$2$1
+com/facebook/react/PackageList.java
+ com.facebook.react.PackageList
+com/bolodorei/BuildConfig.java
+ com.bolodorei.BuildConfig
